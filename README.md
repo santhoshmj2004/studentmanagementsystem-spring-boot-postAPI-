@@ -15,3 +15,18 @@
 - Followed industry-standard coding practices and implemented layered architecture for scalability and clarity.
 
 - Enhanced understanding of Java backend development, database integration, and API testing workflows.
+
+
+# 🚀 Features
+
+Add, view, update, and delete student records
+
+REST API architecture with Spring Boot
+
+Database operations using Spring Data JPA (Hibernate ORM)
+
+PostgreSQL integration for persistent storage
+
+API testing and validation using Postman
+
+Modular and layered architecture for scalability
